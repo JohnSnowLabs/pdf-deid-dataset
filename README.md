@@ -47,5 +47,5 @@ The **Easy** set follows a structured format with the following sections:
 
 | Difficulty Level | Precision | Recall | F1-Score | Total Files |
 |------------------|-----------|--------|----------|---------|
-| 🟢 Easy          | 0.9208      | 0.9131   | 0.9208    | 30     |
+| 🟢 Easy          | 0.9208      | 0.9131   | 0.9169    | 30     |
 | 🟡 Medium        | 0.9233      | 0.8776   | 0.8999     | 40     |
