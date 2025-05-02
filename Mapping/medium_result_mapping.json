@@ -209,8 +209,8 @@
         ]
     },
     "PDF_Deid_Deidentification_12.pdf": {
-        "precision": 0.8462,
-        "recall": 0.9167,
+        "precision": 0.9231,
+        "recall": 0.9231,
         "gt": [
             "22/08/2023",
             "15/09/2023",
@@ -247,7 +247,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Kimberly Briana Escobar",
@@ -292,8 +295,8 @@
         ]
     },
     "PDF_Deid_Deidentification_6.pdf": {
-        "precision": 0.9268,
-        "recall": 1.0,
+        "precision": 0.9512,
+        "recall": 0.9512,
         "gt": [
             "01/11/2023",
             "01/11/2023",
@@ -332,7 +335,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Andrew Victoria Johnson",
@@ -379,8 +385,8 @@
         ]
     },
     "PDF_Deid_Deidentification_11.pdf": {
-        "precision": 0.8947,
-        "recall": 0.8947,
+        "precision": 0.9737,
+        "recall": 0.9024,
         "gt": [
             "10/11/2024",
             "10/11/2024",
@@ -419,7 +425,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Theresa Anthony",
@@ -564,8 +573,8 @@
         ]
     },
     "PDF_Deid_Deidentification_3.pdf": {
-        "precision": 0.9024,
-        "recall": 0.9737,
+        "precision": 0.9268,
+        "recall": 0.9268,
         "gt": [
             "28/10/2024",
             "28/10/2024",
@@ -604,7 +613,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Richard Christopher Bray",
@@ -755,8 +767,8 @@
         ]
     },
     "PDF_Deid_Deidentification_29.pdf": {
-        "precision": 0.9231,
-        "recall": 1.0,
+        "precision": 0.9487,
+        "recall": 0.9487,
         "gt": [
             "20/10/2023",
             "20/10/2023",
@@ -793,7 +805,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Kaylee Kyle Powers",
@@ -839,7 +854,7 @@
     },
     "PDF_Deid_Deidentification_5.pdf": {
         "precision": 0.9268,
-        "recall": 1.0,
+        "recall": 0.9268,
         "gt": [
             "15/10/2024",
             "15/10/2024",
@@ -878,7 +893,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Melissa Peter Cobb",
@@ -1028,8 +1046,8 @@
         ]
     },
     "PDF_Deid_Deidentification_13.pdf": {
-        "precision": 0.9268,
-        "recall": 1.0,
+        "precision": 0.9512,
+        "recall": 0.9512,
         "gt": [
             "02/05/2024",
             "02/05/2024",
@@ -1068,7 +1086,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Evelyn Wayne Glenn",
@@ -1115,8 +1136,8 @@
         ]
     },
     "PDF_Deid_Deidentification_27.pdf": {
-        "precision": 0.8,
-        "recall": 0.8421,
+        "precision": 0.875,
+        "recall": 0.8537,
         "gt": [
             "22/10/2024",
             "15/10/2024",
@@ -1155,7 +1176,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Michelle",
@@ -1304,7 +1328,7 @@
     },
     "PDF_Deid_Deidentification_24.pdf": {
         "precision": 0.9268,
-        "recall": 1.0,
+        "recall": 0.9268,
         "gt": [
             "10/11/2024",
             "10/11/2024",
@@ -1343,7 +1367,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "John Coleman",
@@ -1390,8 +1417,8 @@
         ]
     },
     "PDF_Deid_Deidentification_2.pdf": {
-        "precision": 0.8293,
-        "recall": 0.8947,
+        "precision": 0.8537,
+        "recall": 0.8537,
         "gt": [
             "10/11/2024",
             "10/11/2024",
@@ -1430,7 +1457,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Anna Kimberly",
@@ -1580,8 +1610,8 @@
         ]
     },
     "PDF_Deid_Deidentification_16.pdf": {
-        "precision": 0.9268,
-        "recall": 1.0,
+        "precision": 0.9512,
+        "recall": 0.9512,
         "gt": [
             "26/10/2024",
             "26/10/2024",
@@ -1620,7 +1650,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Alexander Gray",
@@ -1668,7 +1701,7 @@
     },
     "PDF_Deid_Deidentification_25.pdf": {
         "precision": 0.9268,
-        "recall": 1.0,
+        "recall": 0.9268,
         "gt": [
             "10/10/2023",
             "03/10/2023",
@@ -1707,7 +1740,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "John Oneill",
@@ -1856,8 +1892,8 @@
         ]
     },
     "PDF_Deid_Deidentification_28.pdf": {
-        "precision": 0.8333,
-        "recall": 0.9211,
+        "precision": 0.8571,
+        "recall": 0.878,
         "gt": [
             "02/11/2024",
             "02/11/2024",
@@ -1896,7 +1932,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Angela John Johnson",
@@ -2046,8 +2085,8 @@
         ]
     },
     "PDF_Deid_Deidentification_18.pdf": {
-        "precision": 0.8158,
-        "recall": 0.8611,
+        "precision": 0.8421,
+        "recall": 0.8205,
         "gt": [
             "01/11/2023",
             "01/11/2023",
@@ -2084,7 +2123,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Christopher Elizabeth Harris",
@@ -2128,8 +2170,8 @@
         ]
     },
     "PDF_Deid_Deidentification_17.pdf": {
-        "precision": 0.9211,
-        "recall": 0.9211,
+        "precision": 0.9474,
+        "recall": 0.878,
         "gt": [
             "15/09/2023",
             "15/09/2023",
@@ -2168,7 +2210,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Mitchell Tina Wilkerson",
@@ -2212,8 +2257,8 @@
         ]
     },
     "PDF_Deid_Deidentification_10.pdf": {
-        "precision": 0.925,
-        "recall": 0.9737,
+        "precision": 1.0,
+        "recall": 0.9756,
         "gt": [
             "20/10/2024",
             "01/04/2024",
@@ -2252,7 +2297,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "James James Choi",
@@ -2298,7 +2346,7 @@
         ]
     },
     "PDF_Deid_Deidentification_9.pdf": {
-        "precision": 0.9268,
+        "precision": 1.0,
         "recall": 1.0,
         "gt": [
             "01/11/2023",
@@ -2338,7 +2386,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Phyllis Grant",
@@ -2386,7 +2437,7 @@
     },
     "PDF_Deid_Deidentification_19.pdf": {
         "precision": 0.925,
-        "recall": 0.9737,
+        "recall": 0.9024,
         "gt": [
             "10/11/2024",
             "10/11/2024",
@@ -2425,7 +2476,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Keith Rubio",
@@ -2472,7 +2526,7 @@
     },
     "PDF_Deid_Deidentification_15.pdf": {
         "precision": 0.875,
-        "recall": 0.9211,
+        "recall": 0.8537,
         "gt": [
             "28/02/2024",
             "28/02/2024",
@@ -2511,7 +2565,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Anthony Gonzalez",
@@ -2558,7 +2615,7 @@
     },
     "PDF_Deid_Deidentification_0.pdf": {
         "precision": 0.9268,
-        "recall": 1.0,
+        "recall": 0.9268,
         "gt": [
             "08/11/2024",
             "08/11/2024",
@@ -2597,7 +2654,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Kimberly Lawrence",
@@ -2645,7 +2705,7 @@
     },
     "PDF_Deid_Deidentification_23.pdf": {
         "precision": 0.925,
-        "recall": 0.9737,
+        "recall": 0.9024,
         "gt": [
             "25/10/2023",
             "25/10/2023",
@@ -2684,7 +2744,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Nicole Garner",
@@ -2731,7 +2794,7 @@
     },
     "PDF_Deid_Deidentification_14.pdf": {
         "precision": 0.7368,
-        "recall": 0.9333,
+        "recall": 0.8485,
         "gt": [
             "20/10/2023",
             "20/10/2023",
@@ -2762,7 +2825,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Amanda Charles Irwin",
@@ -2806,7 +2872,7 @@
         ]
     },
     "PDF_Deid_Deidentification_22.pdf": {
-        "precision": 0.9268,
+        "precision": 1.0,
         "recall": 1.0,
         "gt": [
             "28/10/2024",
@@ -2846,7 +2912,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Michael Brian Payne",
@@ -2893,8 +2962,8 @@
         ]
     },
     "PDF_Deid_Deidentification_4.pdf": {
-        "precision": 0.875,
-        "recall": 0.9211,
+        "precision": 0.9,
+        "recall": 0.878,
         "gt": [
             "26/10/2024",
             "26/10/2024",
@@ -2933,7 +3002,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Andrea Stephen Turner",
@@ -2979,8 +3051,8 @@
         ]
     },
     "PDF_Deid_Deidentification_21.pdf": {
-        "precision": 0.9,
-        "recall": 0.9474,
+        "precision": 0.95,
+        "recall": 0.9268,
         "gt": [
             "08/11/2023",
             "08/11/2023",
@@ -3019,7 +3091,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Robert Cabrera",
@@ -3065,8 +3140,8 @@
         ]
     },
     "PDF_Deid_Deidentification_26.pdf": {
-        "precision": 0.9,
-        "recall": 0.9474,
+        "precision": 0.925,
+        "recall": 0.9024,
         "gt": [
             "25/10/2024",
             "25/10/2024",
@@ -3105,7 +3180,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Austin Lambert",
@@ -3152,7 +3230,7 @@
     },
     "PDF_Deid_Deidentification_7.pdf": {
         "precision": 0.9268,
-        "recall": 1.0,
+        "recall": 0.9268,
         "gt": [
             "01/11/2024",
             "01/11/2024",
@@ -3191,7 +3269,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Danny Anderson",
@@ -3238,8 +3319,8 @@
         ]
     },
     "PDF_Deid_Deidentification_8.pdf": {
-        "precision": 0.9268,
-        "recall": 1.0,
+        "precision": 0.9512,
+        "recall": 0.9512,
         "gt": [
             "25/10/2024",
             "25/10/2024",
@@ -3278,7 +3359,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Tracy Thomas",
@@ -3430,8 +3514,8 @@
         ]
     },
     "PDF_Deid_Deidentification_20.pdf": {
-        "precision": 0.9024,
-        "recall": 0.9737,
+        "precision": 0.9268,
+        "recall": 0.9268,
         "gt": [
             "28/10/2024",
             "15/09/2024",
@@ -3470,7 +3554,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Rachael Mahoney",
@@ -3517,8 +3604,8 @@
         ]
     },
     "PDF_Deid_Deidentification_1.pdf": {
-        "precision": 0.8,
-        "recall": 0.8421,
+        "precision": 0.875,
+        "recall": 0.8537,
         "gt": [
             "08/11/2024",
             "08/11/2024",
@@ -3557,7 +3644,10 @@
             "22/04/2025",
             "Sierra Valley Medical Institute",
             "(402) 738-5912",
-            "22/04/2025"
+            "22/04/2025",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC",
+            "Sierra Valley Medical Institute INC"
         ],
         "pred": [
             "Healthcare Elizabeth Williams",
