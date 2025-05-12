@@ -71,8 +71,8 @@ The dataset contains the following **Personally Identifiable Information (PII)**
     - **Hard**  [ Contains 10 hard PDF Files ]
 
   - **Mapping:**
-    - **Ground Truth Files**  [ JSON files named `pdf_deid_gts_*.json` containing ground truth data. ]
-    - **Predicted Mapping Files**  [ JSON files named `*_result_mapping.json` containing predicted values, ground truth, precision, and recall. ]
+    - **Ground Truth Files**  [ JSON files `pdf_deid_gts_*.json` contain ground truth data. ]
+    - **Predicted Mapping Files**  [ JSON files `*_result_mapping.json` have predicted values, ground truth, precision, and recall. ]
       
 - **Sample Result:** [ Contains PDF example outputs with black bbox in place of PHI. ]
     
@@ -82,4 +82,4 @@ The dataset contains the following **Personally Identifiable Information (PII)**
 |------------------|-----------|--------|----------|---------|
 | 🟢 Easy          | 0.9851      | 0.9799   | 0.9825    | 30     |
 | 🟡 Medium        | 0.9800      | 0.9575   | 0.9686     | 40     |
-| 🔴 Hard        | 0.9561      | 0.9290   | 0.9424     | 40     |
+| 🔴 Hard        | 0.9561      | 0.9290   | 0.9424     | 50     |
