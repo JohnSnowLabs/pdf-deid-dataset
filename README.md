@@ -65,6 +65,7 @@ The dataset contains the following **Personally Identifiable Information (PII)**
   - **Visual_NLP_ZeroShot_Metrics.ipynb**  
     - Guide for calculating NLP metrics using JSL packages.  
     - Uses zero-shot stages for specific PHI detection.
+    - Patient Name, Patient DOB and Patient SSN are included for de-identification.
 
   - **PDF Original:**
     - **Easy**  [ Contains 30 Easy PDF Files ]    
@@ -83,4 +84,5 @@ The dataset contains the following **Personally Identifiable Information (PII)**
 |------------------|-----------|--------|----------|---------|
 | 🟢 Easy          | 0.9851      | 0.9799   | 0.9825    | 30     |
 | 🟡 Medium        | 0.9800      | 0.9575   | 0.9686     | 40     |
+| 🟡 Zero Shot Medium        | 0.9861      | 1   | 0.993     | 10     |
 | 🔴 Hard        | 0.9561      | 0.9290   | 0.9424     | 50     |
