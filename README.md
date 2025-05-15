@@ -41,7 +41,7 @@ The dataset contains the following **Personally Identifiable Information (PII)**
 - The **Patient Summary** section may include PHI (Name, DOB, Age) in either form fields or free-text format.
 - Tables in **Past Hospital Visits**, **Current Medications**, and **Medical Tests** can appear either with borders or without.
 - Medium PDF files feature a different layout and include added noise such as ink bleed, dirty screen effects, and subtle background textures.
-- Hard PDF files contain densely packed information on single lines, which can challenge OCR systems. Additional noise includes punch holes (left margin), binder clips (right margin), noise texturisation, and moire patterns.
+- Hard PDF files contain densely packed information on single lines, which can challenge OCR systems. Additional noise includes punch holes (left), binder clips (right), noise texturisation, and moire patterns.
 
 ### Data Distribution 
 
@@ -60,6 +60,7 @@ The dataset contains the following **Personally Identifiable Information (PII)**
   - **Visual_NLP_Pretrained_Metrics.ipynb**  
     - Guide for calculating NLP metrics using JSL packages.  
     - Pretrained pipeline included.
+    - Includes Pretrained Pipeline for Deidentification and Obfuscation of PDF files.
   
   - **Visual_NLP_ZeroShot_Metrics.ipynb**  
     - Guide for calculating NLP metrics using JSL packages.  
