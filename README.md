@@ -57,10 +57,8 @@ The dataset contains the following **Personally Identifiable Information (PII)**
     - Guide for calculating NLP metrics using JSL packages.  
     - No pretrained pipeline included.
   
-  - **Visual_NLP_Pretrained_Metrics.ipynb**  
-    - Guide for calculating NLP metrics using JSL packages.  
-    - Pretrained pipeline included.
-    - Includes Pretrained Pipeline for Deidentification and Obfuscation of PDF files.
+  - **Visual_NLP_Pretrained.ipynb**  
+    - Guide for performing deidentification/obfuscation using pretrained pipelines. 
   
   - **Visual_NLP_ZeroShot_Metrics.ipynb**  
     - Guide for calculating NLP metrics using JSL packages.  
